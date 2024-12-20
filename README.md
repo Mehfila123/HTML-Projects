@@ -19,6 +19,7 @@
 
 Paragraph tag :
 ``` <p>  ----------- </p>  ```
+<br>
 Heading tag :
 ```
  <h1> ----</h1>
@@ -28,5 +29,7 @@ Heading tag :
  <h5> ----</h5> 
  <h6> ----</h6>
 ```
+<br>
+
 Break tag:
 ```<br> ```
