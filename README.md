@@ -1,4 +1,4 @@
-# HTML-Projects
+# HTML - Hypertext markup language 
 
 # HTML syntax
 ```
