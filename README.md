@@ -45,3 +45,7 @@ Image tag:
 <img src="link of the image " alt = "image description">
 
 ```
+Adding Link
+```
+<a href = " url link of google " > Google </a>
+```
