@@ -39,3 +39,9 @@ Heading tag :
 Break tag:
 <br>
 ```<br> ```
+
+Image tag:
+```
+<img src="link of the image " alt = "image description">
+
+```
